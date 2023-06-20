@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaper.dog/large/20567178.png)]
+![MasterHead](https://wallpaper.dog/large/20567178.png)
 <h1 align="center">Hi 👋, I'm Manisha Kundnani</h1>
 <h3 align="center">A passionate full-stack developer|| Competetive Programer|| Github global student || Open-source Contributor & a life-time learner.</h3>
 <img margin-left="auto"
@@ -31,5 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishak798&" alt="manishak798" /></p>
 
-![image](https://github.com/Manishak798/Manishak798/assets/90680330/222c7456-8348-406c-8d99-beb1f5886dfd)
+
 
