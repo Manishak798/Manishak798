@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Manisha Kundnani</h1>
 <h3 align="center">A passionate full-stack developer|| Competetive Programer|| Github global student || Open-source Contributor & a life-time learner.</h3>
-<img margin-left="auto" margin-right="auto" src="https://wallpaper.dog/large/20567178.png" alt="coding image" width="400" height="400">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=0e75b6&style=flat" alt="manishak798" /> </p>
+<p aling="center"> <img src="https://wallpaper.dog/large/20567178.png" alt="coding image" width="400" height="400"> </p>
+<br>
+ <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=0e75b6&style=flat" alt="manishak798" /> 
 
 - 🔭 I’m currently working on **JavaScript project**
 
