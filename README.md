@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Manisha Kundnani</h1>
-<h3 align="center">A passionate full-stack developer|| Competetive Programer|| Github global student || Open-source Contributor & a life-time learner.</h3>
+<h3 align="center">☕🚀 "Fueling my journey with robust coffee and 💻coding right beside me, every moment becomes a new and enriching learning experience." 🌟📚</h3>
+<br>
 <p aling="center"> <img src="./githubbanner.png" alt="banner-image"> </p>
 <br>
 <h3 align="left">Profile Views &#128064</h3>
