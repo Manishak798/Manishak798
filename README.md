@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Manisha Kundnani</h1>
-<h3 align="center">☕🚀 "Fueling my journey with robust coffee and 💻coding right beside me, every moment becomes a new and enriching learning experience." 🌟📚</h3>
+<h3 align="center">☕🚀 "Fueling my journey with strong coffee and 💻coding right beside me, every moment becomes a new and enriching learning experience." 🌟📚</h3>
 <br>
 <p aling="center"> <img src="./githubbanner.png" alt="banner-image"> </p>
 <br>
