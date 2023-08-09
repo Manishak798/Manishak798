@@ -7,7 +7,8 @@
 <h3 align="left">Profile Views &#128064</h3>
  <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=0e75b6&style=flat" alt="manishak798" /> 
 <h3 align="left">About &#128173</h3>
-- 🔭 I’m currently working on **JavaScript project**
+
+-  🔭 I’m currently working on **JavaScript project**
 
 - 👯 I’m looking to collaborate on **Full stack development projects**
 
