@@ -16,8 +16,8 @@
 
 - 📫 How to reach me **monakundnani113@gmail.com**
 
-<h3 align="left">Open-Source Programs 🌍</h3>  
-<p>🌟<b>GirlScript Summer of Code</b> 🌈👩‍💻</p>
+<h3 align="left">Open-Source Programs🌍</h3>  
+<p>🌟<b>GirlScript Summer of Code</b>🌈👩‍💻</p>
 <p>My Standings: <b>168 🏆🚀</b></p>
 
 <h3 align="left">Connect with me &#128279</h3>
