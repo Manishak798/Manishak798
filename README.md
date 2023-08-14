@@ -18,7 +18,7 @@
 
 <h3 align="left">Open-Source Programs🌍</h3> 
 <ul>
-<p>🌟<b>GirlScript Summer of Code</b>🌈👩‍💻</p>
+<p>🌟<b>GirlScript Summer of Code (GSSOC)</b>🌈👩‍💻</p>
 <li><p>My Standings: <b>Ranked 173🏆🚀</b></p></li>
 <li><p>Under <b>Top 200 Contributor</b> in GSSOC'23 out of <b>13000+</b> applicants.</p></li>
 </ul>
