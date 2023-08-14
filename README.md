@@ -16,10 +16,12 @@
 
 - 📫 How to reach me **monakundnani113@gmail.com**
 
-<h3 align="left">Open-Source Programs🌍</h3>  
+<h3 align="left">Open-Source Programs🌍</h3> 
+<ul>
 <p>🌟<b>GirlScript Summer of Code</b>🌈👩‍💻</p>
-<p>My Standings: <b>173 🏆🚀</b></p>
-
+<li><p>My Standings: <b>Ranked 173🏆🚀</b></p></li>
+<li><p>Under <b>Top 200 Contributor</b> in GSSOC'23 out of <b>13000+</b> applicants.</p></li>
+</ul>
 <h3 align="left">Connect with me &#128279</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manishakundnani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishakundnani" height="30" width="40" /></a>
