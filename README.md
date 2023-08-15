@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Manisha Kundnani</h1>
 <h3 align="center">☕🚀 "Fueling my journey with strong coffee and 💻coding right beside me, every moment becomes a new and enriching learning experience." 🌟📚</h3>
 <br>
-<p aling="center"> <img src="./githubbanner.png" alt="banner-image"> </p>
+<p aling="center"> <img src="./github-banner1.jpg" alt="banner-image"> </p>
 <br>
 <h3 align="left">Profile Views &#128064</h3>
  <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=0e75b6&style=flat" alt="manishak798" /> 
