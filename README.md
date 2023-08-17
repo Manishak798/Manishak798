@@ -21,6 +21,7 @@
 <p>🌟<b>GirlScript Summer of Code (GSSOC)</b>🌈👩‍💻</p>
 <li><p>My Standings: <b>Ranked 173🏆🚀</b></p></li>
 <li><p>Under <b>Top 200 Contributor</b> in GSSOC'23 out of <b>13000+</b> applicants.</p></li>
+ <img src="./manopensource.png" alt="leaderboard SS">
 </ul>
 <h3 align="left">Connect with me &#128279</h3>
 <p align="left">
