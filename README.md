@@ -26,6 +26,8 @@
 <h3 align="left">Connect with me &#128279</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manisha-kundnani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishakundnani" height="30" width="40" /></a>
+ <br>
+ <h3 align="left">Coding Profiles💻🚀</h3>
 <a href="https://www.codechef.com/users/manishak_113" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="manishak_113" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/manisha_113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="manisha_113" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manisha_113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manisha_113" height="30" width="40" /></a>
