@@ -42,7 +42,12 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" height="55px" width="60px" style="object-fit: cover;">
 </div>
 <h3 align="left">Let's Collaborate! 👥</h3>
- <p>🚀 I'm open to collaborations on full-stack projects, DSA problem-solving, UI/UX design, and open-source initiatives. Have an exciting project in mind? Let's team up and create something great together. <b>Feel free to reach out! </b> 🌟</p>
+<ul>
+<li> 🚀 I'm open to collaborations on Full-stack projects 🌐, DSA problem-solving 👩‍💻, UI/UX design 🎨, and Open-source initiatives 🌟. Let's make magic happen! 🌈🤗</li>
+ <li>Have an exciting project in mind? 🚀 Let's team up and create something great together. 💪🤝</li>
+ 
+ <h3> <b>Feel free to reach out! </b> 🌟</h3>
+ </ul>
 <b><hr></b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishak798&show_icons=true&locale=en&layout=compact" alt="manishak798" /></p>
 
