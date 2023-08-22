@@ -8,13 +8,15 @@
  <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=0e75b6&style=flat" alt="manishak798" /> 
 <h3 align="left">About &#128173</h3>
 
--  🔭 I’m currently working on **JavaScript project**
+-  🔭 I’m currently working on my **MERN stack skills!** 💻📘🚀
 
-- 👯 I’m looking to collaborate on **Full stack development projects**
+- 👯 I thrive in collaborative environments and seek opportunities to team up on exciting **Full stack development projects**. If you're passionate about impactful and innovative solutions, let's join forces! 🚀🤝 
 
-- 💬 Ask me about **Full Stack development & DSA**
+- 💬 Feel free to pick my brain about anything related to **Full Stack development** and **Data Structures & Algorithms (DSA).** Whether it's architecting a dynamic web application or mastering the art of efficient algorithm design, I'm here to help. 🧠💻🌐 
 
-- 📫 How to reach me **monakundnani113@gmail.com**
+- 📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can reach out to me at **monakundnani113@gmail.com**. I'm always up for a good conversation! 📩👋
+ 
+- Let's code, create, and conquer together! 🚀🌟
 
 <h3 align="left">Open-Source Programs🌍</h3> 
 <ul>
