@@ -15,7 +15,17 @@
 - 💬 Feel free to pick my brain about anything related to **Full Stack development** and **Data Structures & Algorithms (DSA).** Whether it's architecting a dynamic web application or mastering the art of efficient algorithm design, I'm here to help. 🧠💻🌐 
 
 - 📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can reach out to me at **monakundnani113@gmail.com**. I'm always up for a good conversation! 📩👋
+<h3 align="left">🏆 Achievements 🌟</h3>
+<ul>
+ <b>GSSOC'23 Contributor🚀</b>
 
+<li>🏅 Ranked 173rd out of 1557 participants and 13000+ applicants.</li>
+<li>🔝 Among the top 200 Contributors in GSSOC'23.</li>
+ <br>
+ <b>BCA Program Excellence 🎓</b>
+ <li>🌟 Graduated in the Top 3% of the BCA Program.</li>
+ <li>🥉 Secured 3rd position out of 120 Students in the BCA Program.</li>
+</ul>
 <h3 align="left">Open-Source Programs🌍</h3> 
 <ul>
 <p>🌟<b>GirlScript Summer of Code (GSSOC)</b>🌈👩‍💻</p>
@@ -49,6 +59,7 @@
  <h3>   " Let's code, create, and conquer together! 🚀🌟 <b>Feel free to reach out! </b> 🌟"</h3>
  </ul>
 <b><hr></b>
+<h3 align="left">My GitHub Stats 📊</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishak798&show_icons=true&locale=en&layout=compact" alt="manishak798" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishak798&show_icons=true&locale=en" alt="manishak798" /></p>
