@@ -33,7 +33,7 @@
 <li><p>Under <b>Top 200 Contributor</b> in GSSOC'23 out of <b>13000+</b> applicants.</p></li>
  <img src="./open-src-modified.png" alt="leaderboard SS">
 </ul>
-<h3 align="left">Let's Connect! 🤝 &#128279</h3>
+<h3 align="left">Let's Connect! 🤝&#128279</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/manisha-kundnani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manishakundnani" height="30" width="40" /></a>
  <br>
