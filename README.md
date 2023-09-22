@@ -17,6 +17,11 @@
 - 📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at **monakundnani113@gmail.com**. I'm always up for a good conversation! 📩👋
 <h3 align="left">🏆 Achievements 🌟</h3>
 <ul>
+ <b>CP Rush 2.0 Coding Challenge by Coding Ninjas🚀</b>
+
+<li>🏅 AIR 35 out of 1122+ participants.</li>
+<li>🔝 Among the top 50.</li>
+ <br>
  <b>GSSOC'23 Contributor🚀</b>
 
 <li>🏅 Ranked 173rd out of 1557 participants and 13000+ applicants.</li>
