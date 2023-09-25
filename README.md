@@ -18,18 +18,16 @@
 <h3 align="left">🏆 Achievements 🌟</h3>
 <ul>
  <b>CP Rush 2.0 Coding Competition by Coding Ninjas🚀</b>
-
-<li>🏅 AIR 35 out of 1122+ participants.</li>
-<li>🔝 Among the top 50.</li>
+<li>🏅 AIR 35 out of 1122+ participants, Top 50.</li>
  <br>
  <b>GSSOC'23 Contributor🚀</b>
-
-<li>🏅 Ranked 173rd out of 1557 participants and 13000+ applicants.</li>
-<li>🔝 Among the top 200 Contributors in GSSOC'23.</li>
+<li>🏅 Ranked 173rd out of 1557 participants and 13000+ applicants, Top 200.</li>
+ <br>
+ <b>Codeathon'23 - COTN2023 by Codechef🚀🌟</b>
+ <li>Ranked 137 out of 600+ participants.🏅</li>
  <br>
  <b>BCA Program Excellence 🎓</b>
- <li>🌟 Graduated in the Top 3% of the BCA Program.</li>
- <li>🥉 Secured 3rd position out of 120 Students in the BCA Program.</li>
+ <li>🌟 Graduated in the Top 3% of the BCA Program,🥉 Secured 3rd position out of 120 Students in the BCA Program..</li>
 </ul>
 <h3 align="left">Open-Source Programs🌍</h3> 
 <ul>
