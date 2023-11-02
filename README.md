@@ -32,7 +32,7 @@
 <h3 align="left">Open-Source Programs🌍</h3> 
 <ul>
  <p>🌟<b>Hacktoberfest'23</b>🌈👩‍💻</p>
-<li> Holopin profile ((https://holopin.io/@manishak798))</li>
+ <img src="./hacktoberbadges.png" alt="hacktoberfest badges">
  <br>
 <p>🌟<b>GirlScript Summer of Code (GSSoC)</b>🌈👩‍💻</p>
 <li><p>My Standings: <b>Ranked 173🏆🚀</b></p></li>
