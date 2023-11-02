@@ -32,7 +32,7 @@
 <h3 align="left">Open-Source Programs🌍</h3> 
 <ul>
  <p>🌟<b>Hacktoberfest'23</b>🌈👩‍💻</p>
- <img src="./hacktoberbadges.png" alt="hacktoberfest badges">
+ <img src="./hacktoberbadges.png" alt="hacktober-badges">
  <br>
 <p>🌟<b>GirlScript Summer of Code (GSSoC)</b>🌈👩‍💻</p>
 <li><p>My Standings: <b>Ranked 173🏆🚀</b></p></li>
