@@ -34,7 +34,8 @@
  <p>🌟<b>Hacktoberfest'23</b>🌈👩‍💻</p>
  <img src="./hacktoberbadges.png" alt="hacktober-badges">
  <br>
-<p>🌟<b>GirlScript Summer of Code (GSSoC)</b>🌈👩‍💻</p>
+ <br>
+<p>🌟<b>GirlScript Summer of Code (GSSoC'23)</b>🌈👩‍💻</p>
 <li><p>My Standings: <b>Ranked 173🏆🚀</b></p></li>
 <li><p>Under <b>Top 200 Contributor</b> in GSSOC'23 out of <b>13000+</b> applicants.</p></li>
  <img src="./open-src-modified.png" alt="leaderboard SS">
