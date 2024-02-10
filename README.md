@@ -14,7 +14,7 @@
 
 - 💬 Feel free to pick my brain about anything related to **Full Stack development** and **Data Structures & Algorithms (DSA).** Whether it's architecting a dynamic web application or mastering the art of efficient algorithm design, I'm here to help. 🧠💻🌐 
 
-- 📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at **manisha.kundnani.113@gmail.com**. I'm always up for a good conversation! 📩👋
+- 📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at **manishakundnani.dev@gmail.com**. I'm always up for a good conversation! 📩👋
 <h3 align="left">🏆 Achievements 🌟</h3>
 <ul>
  <b>CP Rush 2.0 Coding Competition by Coding Ninjas🚀</b>
