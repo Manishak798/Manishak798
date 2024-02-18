@@ -58,6 +58,10 @@
 <img src="https://logowik.com/content/uploads/images/figma459.logowik.com.webp" height="65px" width="80px" style="overflow: hidden;">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" height="45px" width="48px" style="object-fit: cover;">
 </div>
+<h3 align="left">Qunie Stats💻👩‍💻</h3>
+<br>
+
+
 <h3 align="left">Let's Collaborate! 👥</h3>
 <ul>
 <li> 🚀 I'm open to collaborations on Full-stack projects 🌐, DSA problem-solving 👩‍💻, UI/UX design 🎨, and Open-source initiatives 🌟. Let's make magic happen! 🌈🤗</li>
@@ -73,5 +77,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishak798&" alt="manishak798" /></p>
 
-
+[![Manishak798's GitHub | Dependencies](https://stats.quine.sh/Manishak798/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Manishak798)
 
