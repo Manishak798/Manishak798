@@ -58,7 +58,7 @@
 <img src="https://logowik.com/content/uploads/images/figma459.logowik.com.webp" height="65px" width="80px" style="overflow: hidden;">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" height="45px" width="48px" style="object-fit: cover;">
 </div>
-<h3 align="left">Qunie Stats💻👩‍💻</h3>
+<h3 align="left">Quine Stats💻👩‍💻</h3>
 
 ![image](https://github.com/Manishak798/Manishak798/assets/90680330/c5e90877-82c2-4d9d-9cb3-a327efcf2699)
 
