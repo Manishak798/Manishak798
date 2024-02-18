@@ -61,6 +61,8 @@
 <h3 align="left">Qunie Stats💻👩‍💻</h3>
 <br>
 
+![image](https://github.com/Manishak798/Manishak798/assets/90680330/c5e90877-82c2-4d9d-9cb3-a327efcf2699)
+
 
 <h3 align="left">Let's Collaborate! 👥</h3>
 <ul>
