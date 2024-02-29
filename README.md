@@ -59,7 +59,7 @@
           
 <h3 align="left">Quine Stats💻👩‍💻</h3>
 
-![image](https://github.com/Manishak798/Manishak798/assets/90680330/c5e90877-82c2-4d9d-9cb3-a327efcf2699)
+![image](https://github.com/Manishak798/Manishak798/assets/90680330/92db4760-fae5-42b3-8346-39748b1cc8fd)
 
 ![image](https://github.com/Manishak798/Manishak798/assets/90680330/b468beff-0899-4833-b8e4-80bb1871cc8e)
 
