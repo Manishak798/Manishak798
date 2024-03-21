@@ -60,9 +60,7 @@
 
 ![image](https://github.com/Manishak798/Manishak798/assets/90680330/bbe23ac2-90e4-4d9c-b43c-0271fa20deca)
 
-
-
-![image](https://github.com/Manishak798/Manishak798/assets/90680330/70ef0ba1-2d25-4dde-9105-0c827ec9d9c0)
+![image](https://github.com/Manishak798/Manishak798/assets/90680330/e7f4b9a5-7986-4513-91cb-12ba5b72681b)
 
 
 <h3 align="left">Let's Collaborate! 👥</h3>
