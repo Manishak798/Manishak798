@@ -10,9 +10,7 @@
 
 -  🔭 I’m currently working as a **Software Engineer Intern @Bolt.Earth** 💻📘🚀
 
-- 👯 I thrive in collaborative environments and seek opportunities to collaborate on exciting **Full stack development projects**. Let's join forces if you're passionate about impactful and innovative solutions! 🚀🤝 
-
-- 💬 Feel free to pick my brain about anything related to **Full Stack development** and **Data Structures & Algorithms (DSA).** Whether it's architecting a dynamic web application or mastering the art of efficient algorithm design, I'm here to help. 🧠💻🌐 
+- Explore **Full Stack dev** and **DSA** with me — architect dynamic apps and master algorithms. 🧠💻🌐 
 
 - 📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at **manishakundnani.dev@gmail.com**. I'm always up for a good conversation! 📩👋
 <h3 align="left">🏆 Achievements 🌟</h3>
