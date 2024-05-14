@@ -16,15 +16,12 @@
 
 <h3 align="left">Open-Source Programs 🌍</h3> 
 <ul>
- <p>🌟<b>Hacktoberfest'23</b>🌈👩‍💻</p>
- <img src="./hacktoberbadges.png" alt="hacktober-badges">
- <br>
- <br>
-<p>🌟<b>GirlScript Summer of Code (GSSoC'23)</b>🌈👩‍💻</p>
-<li><p>My Standings: <b>Ranked 173 out of 1557 🏆🚀</b></p></li>
-<li><p>Under <b>Top 200 Contributor</b> in GSSOC'23 out of <b>13000+</b> applicants.</p></li>
+ 🌱 Mentor in:
+ 
+- GirlScript Summer of Code GSSOC'24
+  
+- Social Winter of Code '24
 
-![image](https://github.com/Manishak798/Manishak798/assets/90680330/4c2c4cdc-a2de-41ab-aa76-38ca877ef21f)
 
 
 </ul>
