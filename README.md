@@ -8,11 +8,11 @@
  <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=CDB699&style=flat" alt="manishak798" /> 
 <h3 align="left">About &#128173</h3>
 
--  🔭 I’m currently working as a **Software Engineer Intern @Bolt.Earth** 💻
+- I’m currently working as a **Software Engineer Intern @Bolt.Earth** 💻
 
 - Explore **Full Stack dev** and **DSA** with me — architect dynamic apps and master algorithms. 🧠💻🌐 
 
-- 📫 Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at **manishakundnani.dev@gmail.com**. I'm always up for a good conversation! 📩👋
+- Whether you're interested in discussing potential collaborations, tech insights, or just want to say hi, you can contact me at **manishakundnani.dev@gmail.com**. I'm always up for a good conversation! 📩👋
 
 <h3 align="left">Open-Source Programs 🌍</h3> 
 <ul>
