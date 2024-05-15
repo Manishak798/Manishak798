@@ -22,9 +22,9 @@
   
 - Social Winter of Code '24
 
-🌟 Contributor in:
+🌟 Contributed to:
 
-- Hacktoberfest'23
+- Hacktoberfest'23 
 
 - GirlScript Summer of Code GSSOC'23
 
