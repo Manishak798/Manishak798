@@ -10,6 +10,7 @@
 
 - I’m currently working as a **Software Engineer Intern @Bolt.Earth** 💻
 
+
 <h3 align="left">Open-Source Programs 🌍</h3> 
 <ul>
  🌱 Mentor in:
@@ -30,7 +31,7 @@
 <h3 align="left">Let's Connect! 🤝 &#128279</h3>
  <p>
  
- <a href="https://www.linkedin.com/in/manisha-kundnani/" rel="no follow" >
+ <a href="https://www.linkedin.com/in/manisha-kundnani/" style="text-decoration:none" >
  <img src="https://img.shields.io/badge/LinkedIn-Manisha Kundnani-89CFF0?style=flat&logo=linkedin" alt="LinkedIn" />
  </a>
 
