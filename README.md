@@ -30,14 +30,15 @@
 
 
 </ul>
+
 <h3 align="left">Let's Connect! 🤝 &#128279</h3>
  <p>
  
- <a href="https://www.linkedin.com/in/manisha-kundnani/">
+ <a href="https://www.linkedin.com/in/manisha-kundnani/" rel="no follow" >
  <img src="https://img.shields.io/badge/LinkedIn-Manisha Kundnani-89CFF0?style=flat&logo=linkedin" alt="LinkedIn" />
  </a>
 
-<a href="https://github.com/manishak798">
+<a href="https://github.com/manishak798" text-decoration="none" >
  <img src="https://img.shields.io/badge/GitHub-manishak798-ECECEC?style=flat&logo=github" alt="GitHub Profile" />
 </a>
 
