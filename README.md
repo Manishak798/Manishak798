@@ -31,13 +31,15 @@
 
 </ul>
 <h3 align="left">Let's Connect! 🤝 &#128279</h3>
-<p>
+ <p>
  
  <a href="https://www.linkedin.com/in/manisha-kundnani/">
  <img src="https://img.shields.io/badge/LinkedIn-Manisha Kundnani-89CFF0?style=flat&logo=linkedin" alt="LinkedIn" />
  </a>
 
+<a href="https://github.com/manishak798">
  <img src="https://img.shields.io/badge/GitHub-manishak798-ECECEC?style=flat&logo=github" alt="GitHub Profile" />
+</a>
 
 <a href="mailto:manishakundnani.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-FFCCCB?style=flat&logo=gmail" alt="Email: manishakundnani.dev@gmail.com" /> 
