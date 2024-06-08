@@ -36,7 +36,10 @@
 
  <img src="https://img.shields.io/badge/GitHub-manishak798-ECECEC?style=flat&logo=github" alt="GitHub Profile" />
 
+<a href="mailto:manishakundnani.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-FFCCCB?style=flat&logo=gmail" alt="Email: manishakundnani.dev@gmail.com" /> 
+</a>
+
 </p>
 
  
