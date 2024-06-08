@@ -32,7 +32,10 @@
 </ul>
 <h3 align="left">Let's Connect! 🤝 &#128279</h3>
 <p>
+ 
+ <a href="https://www.linkedin.com/in/manisha-kundnani/">
  <img src="https://img.shields.io/badge/LinkedIn-Manisha Kundnani-89CFF0?style=flat&logo=linkedin" alt="LinkedIn" />
+ </a>
 
  <img src="https://img.shields.io/badge/GitHub-manishak798-ECECEC?style=flat&logo=github" alt="GitHub Profile" />
 
