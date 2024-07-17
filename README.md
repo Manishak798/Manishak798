@@ -43,6 +43,10 @@
 <img src="https://img.shields.io/badge/Email-FFCCCB?style=flat&logo=gmail" alt="Email: manishakundnani.dev@gmail.com" /> 
 </a>
 
+<a href="https://drive.google.com/file/d/1PFnVtFCEeavZc9WzU8BbaZv40kfuJQYu/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white" alt="Resume" />
+</a>
+
 </p>
 
  
