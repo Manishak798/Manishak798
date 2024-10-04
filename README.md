@@ -28,7 +28,7 @@
 
 </ul>
 
-<h3 align="left">Let's Connect! 🤝 &#128279</h3>
+<h3 align="left">Let's Connect! 🤝🏻</h3>
  <p>
  
  <a href="https://www.linkedin.com/in/manisha-kundnani/" style=text-decoration:none>
