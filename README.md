@@ -26,6 +26,9 @@
 
 - Centralized CPO logic through a transformation layer for future scalability and ease of integration of multiple CPOs.
 
+- Architected high-performance microservice with Kafka, Sentry, Hypertest, and AWS S3.
+
+
 
 
 </ul>
