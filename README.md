@@ -10,6 +10,18 @@
 
 - I’m currently working as a **Software Engineer Intern @Bolt.Earth** 💻
 
+<h3 align="left">Experience 🖥️</h3> 
+
+<ul>
+
+## Bolt.Earth
+
+- Resolved JWT refresh token misconfiguration, improving Sentry monitoring and reducing p95 latency.
+
+- Built REST APIs for BLE chargers, enabling offline booking sync for 50k+ users.
+
+
+</ul>
 
 <h3 align="left">Open-Source Programs 🌍</h3> 
 <ul>
