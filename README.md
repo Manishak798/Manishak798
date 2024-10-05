@@ -28,7 +28,7 @@
 
 - Architected high-performance microservice with Kafka, Sentry, Hypertest, and AWS S3.
 
-
+- Created modular NPM package for multi-channel notifications (email, SMS, in-app) using Kafka and protocol buffers.
 
 
 </ul>
