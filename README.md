@@ -20,6 +20,9 @@
 
 - Built REST APIs for BLE chargers, enabling offline booking sync for 50k+ users.
 
+- Developed charger discovery and booking flow for 10k+ OCPI chargers with real-time ElasticSearch logs.
+
+
 
 </ul>
 
