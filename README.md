@@ -22,6 +22,8 @@
 
 - Developed charger discovery and booking flow for 10k+ OCPI chargers with real-time ElasticSearch logs.
 
+- Redesigned payment settlement flow, reducing company burn by 50% with multi-gateway integration.
+
 
 
 </ul>
