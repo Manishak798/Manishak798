@@ -22,7 +22,7 @@
 
 - Developed charger discovery and booking flow for 10k+ OCPI chargers with real-time ElasticSearch logs.
 
-- Redesigned payment settlement flow, reducing company burn by 50% with multi-gateway integration.
+- Redesigned payment settlement flow, reducing company burn by 50% with multi-gateway integration using Factory design pattern for scalability.
 
 - Centralized CPO logic through a transformation layer for future scalability and ease of integration of multiple CPOs.
 
