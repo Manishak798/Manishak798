@@ -24,6 +24,8 @@
 
 - Redesigned payment settlement flow, reducing company burn by 50% with multi-gateway integration.
 
+- Centralized CPO logic through a transformation layer for future scalability and ease of integration of multiple CPOs.
+
 
 
 </ul>
