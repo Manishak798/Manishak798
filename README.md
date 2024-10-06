@@ -5,7 +5,7 @@
 <p aling="center"> <img src="./github-bannerman-modified.png" alt="banner-image"> </p>
 
 <h3 align="left">Profile Views &#128064</h3>
- <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=bc8a7b&style=flat" alt="manishak798" /> 
+ <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=9B7D61&style=flat" alt="manishak798" /> 
 <h3 align="left">About &#128173</h3>
 
 - I’m currently working as a **Software Engineer Intern @Bolt.Earth** 💻
@@ -54,7 +54,7 @@
  <p>
  
  <a href="https://www.linkedin.com/in/manisha-kundnani/" style=text-decoration:none>
- <img src="https://img.shields.io/badge/LinkedIn-Manisha Kundnani-89CFF0?style=flat&logo=linkedin" alt="LinkedIn" />
+ <img src="https://img.shields.io/badge/LinkedIn-Manisha Kundnani-E1C1A6?style=flat&logo=linkedin" alt="LinkedIn" />
  </a>
 
 <a href="https://github.com/manishak798" text-decoration="none" >
