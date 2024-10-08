@@ -5,7 +5,7 @@
 <p aling="center"> <img src="./github-bannerman-modified.png" alt="banner-image"> </p>
 
 <h3 align="left">Profile Views &#128064</h3>
- <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=9B7D61&style=flat" alt="manishak798" /> 
+ <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=BC9F8B&style=flat" alt="manishak798" /> 
 <h3 align="left">About &#128173</h3>
 
 - I’m currently working as a **Software Engineer Intern @Bolt.Earth** 💻
