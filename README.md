@@ -54,11 +54,11 @@
  <p>
  
  <a href="https://www.linkedin.com/in/manisha-kundnani/" style=text-decoration:none>
- <img src="https://img.shields.io/badge/LinkedIn-Manisha Kundnani-E1C1A6?style=flat&logo=linkedin" alt="LinkedIn" />
+ <img src="https://img.shields.io/badge/LinkedIn-Manisha Kundnani-6DC5D1?style=flat&logo=linkedin" alt="LinkedIn" />
  </a>
 
 <a href="https://github.com/manishak798" text-decoration="none" >
- <img src="https://img.shields.io/badge/GitHub-manishak798-ECECEC?style=flat&logo=github" alt="GitHub Profile" />
+ <img src="https://img.shields.io/badge/GitHub-manishak798-DFD3C3?style=flat&logo=github" alt="GitHub Profile" />
 </a>
 
 <a href="mailto:manishakundnani.dev@gmail.com">
