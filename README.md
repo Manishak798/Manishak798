@@ -14,7 +14,7 @@
 
 <ul>
 
-## Bolt.Earth
+## Bolt.Earth ⚡️🔋
 
 - Resolved JWT refresh token misconfiguration, improving Sentry monitoring and reducing p95 latency.
 
