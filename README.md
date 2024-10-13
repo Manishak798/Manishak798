@@ -10,7 +10,7 @@
 
 - I’m currently working as a **Software Engineer Intern @Bolt.Earth** 💻
 
-<h3 align="left">Experience 🖥️</h3> 
+<h3 align="left">Experience 💼</h3> 
 
 <ul>
 
