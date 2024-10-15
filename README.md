@@ -8,7 +8,7 @@
  <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=BC9F8B&style=flat" alt="manishak798" /> 
 <h3 align="left">About &#128173</h3>
 
-- I’m currently working as a **Software Engineer Intern @Bolt.Earth** 💻
+- I’m working as a **Software Engineer Intern @Bolt.Earth** 💻
 
 <h3 align="left">Experience 💼</h3> 
 
