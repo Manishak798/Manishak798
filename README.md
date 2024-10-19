@@ -1,5 +1,5 @@
 
-<h1 align="center" color="black">Hi 👋, I'm Manisha Kundnani</h1>
+<h1 align="center" color="black">Hi 👋, I'm Manisha Kundnani </h1>
 <h3 align="center"> "Brew ☕️, Code 💻, Thrive 🚀"</h3>
 <br>
 <p aling="center"> <img src="./github-bannerman-modified.png" alt="banner-image"> </p>
