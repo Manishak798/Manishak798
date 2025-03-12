@@ -54,20 +54,14 @@
  <p>
  
  <a href="https://www.linkedin.com/in/manisha-kundnani/" style=text-decoration:none>
- <img src="https://img.shields.io/badge/LinkedIn-Manisha Kundnani-6DC5D1?style=flat&logo=linkedin" alt="LinkedIn" />
+ <img src="https://img.shields.io/badge/LinkedIn-Manisha Kundnani-DFD3C3?style=flat&logo=linkedin" alt="LinkedIn" />
  </a>
-
-<a href="https://github.com/manishak798" text-decoration="none" >
- <img src="https://img.shields.io/badge/GitHub-manishak798-DFD3C3?style=flat&logo=github" alt="GitHub Profile" />
-</a>
 
 <a href="mailto:manishakundnani.dev@gmail.com">
 <img src="https://img.shields.io/badge/Email-FFCCCB?style=flat&logo=gmail" alt="Email: manishakundnani.dev@gmail.com" /> 
 </a>
 
-<a href="">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=flat&logo=google-drive&logoColor=white" alt="Resume" />
-</a>
+
 
 </p>
 
@@ -80,8 +74,7 @@
  
 <b><hr></b>
 <h3 align="left">My GitHub Stats 📊</h3>
-
- [![Manishak798's GitHub | Dependencies](https://stats.quine.sh/Manishak798/dependencies?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Manishak798) &nbsp;&nbsp; &nbsp;  [![Manishak798's GitHub | Stats](https://stats.quine.sh/Manishak798/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Manishak798)    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishak798&show_icons=true&locale=en&layout=compact" alt="manishak798" /></p>   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishak798&show_icons=true&locale=en" alt="manishak798" /></p>   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishak798&" alt="manishak798" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishak798&show_icons=true&locale=en&layout=compact" alt="manishak798" /></p>   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishak798&show_icons=true&locale=en" alt="manishak798" /></p>   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishak798&" alt="manishak798" /></p>
 
 <div style="display: flex;">
  
