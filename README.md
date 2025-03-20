@@ -73,7 +73,7 @@
  <h3>   "🚀 Let's code, create, and conquer together! <b>Feel free to reach out! </b> 🌟"</h3>
  
 <b><hr></b>
-<h3 align="left">My GitHub Stats 📊</h3>
+<h3 align="left"> Stats 📊</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishak798&show_icons=true&locale=en&layout=compact" alt="manishak798" /></p>   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manishak798&show_icons=true&locale=en" alt="manishak798" /></p>   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishak798&" alt="manishak798" /></p>
 
 <div style="display: flex;">
