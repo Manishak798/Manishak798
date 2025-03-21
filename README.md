@@ -16,19 +16,8 @@
 
 ## Bolt.Earth ⚡️🔋
 
-- Resolved JWT refresh token misconfiguration, improving Sentry monitoring and reducing p95 latency.
 
-- Built REST APIs for BLE chargers, enabling offline booking sync for 50k+ users.
-
-- Developed charger discovery and booking flow for 10k+ OCPI chargers with real-time ElasticSearch logs.
-
-- Redesigned payment settlement flow, reducing company burn by 50% with multi-gateway integration using Factory design pattern for scalability.
-
-- Centralized CPO logic through a transformation layer for future scalability and ease of integration of multiple CPOs.
-
-- Architected high-performance microservice with Kafka, Sentry, Hypertest, and AWS S3.
-
-- Created modular NPM package for multi-channel notifications (email, SMS, in-app) using Kafka and protocol buffers.
+- Worked as an SDE Intern in the R&D Cloud Team, contributing to backend technologies that power scalable and efficient cloud infrastructure.
 
 
 </ul>
