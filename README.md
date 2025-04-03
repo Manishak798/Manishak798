@@ -2,7 +2,7 @@
 <h1 align="center" color="black">Hi 👋, I'm Manisha </h1>
 <h3 align="center"> "Brew ☕️, Code 💻, Thrive 🚀"</h3>
 <br>
-<p aling="center"> <img src="./github-bannerman-modified.png" alt="banner-image"> </p>
+<p aling="center"> <img src="./github-bannerman-modified.png" alt="banner-image"> </p> 
 
 <h3 align="left">Profile Views &#128064</h3>
  <img src="https://komarev.com/ghpvc/?username=manishak798&label=Profile%20views&color=BC9F8B&style=flat" alt="manishak798" /> 
